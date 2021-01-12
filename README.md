@@ -9,3 +9,5 @@ In the project directory, you can run:
 
 ### `npm start`
 
+# Demo here
+https://acarmeel.github.io/giphy-react-app/
